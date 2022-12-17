@@ -4,5 +4,3 @@ console.log({
   ['app.getAppPath()']: app.getAppPath(),
   cwd: process.cwd(),
 });
-
-app.quit()
